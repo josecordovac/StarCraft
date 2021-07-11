@@ -1,6 +1,6 @@
 # StarCraft GamePlay
 
-Uso de clases abstractas, interfaces y POO
+Uso de clases abstractas, interfaces y POO en Java
 
 ## Comenzando 🚀
 
@@ -42,8 +42,6 @@ java Main
 ![alt text](https://github.com/josecordovac/StarCraft/blob/main/ejecucion.png?raw=true)
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [JDK 8 y Netbeans](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html) - Java + IDE
 
