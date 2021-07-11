@@ -39,6 +39,8 @@ A continuación ejecutar:
 java Main
 ```
 
+![alt text](https://github.com/josecordovac/StarCraft/blob/main/ejecucion.png?raw=true)
+
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
